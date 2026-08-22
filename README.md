@@ -1,21 +1,7 @@
-# Projetos de Power BI - DIO
+# Meus Projetos de Power BI - DIO
 
-> RepositÃ³rio com os desafios e dashboards de Power BI desenvolvidos no bootcamp da DIO.
+Aqui eu guardo os dashboards e desafios que construÃ­ durante o bootcamp de Power BI na DIO (Digital Innovation One). 
 
-## ðŸ’» Tecnologias Utilizadas
+Ao longo do curso, aprendi bastante sobre modelagem de dados, tratamento e como usar fÃ³rmulas DAX para gerar relatÃ³rios dinÃ¢micos.
 
-- Microsoft Power BI
-- Modelagem de Dados
-- DAX
-
-## ðŸš€ Sobre o Projeto
-
-Este projeto foi desenvolvido como parte do meu aprendizado e portfÃ³lio. Ele demonstra a aplicaÃ§Ã£o prÃ¡tica dos conhecimentos adquiridos nos cursos e bootcamps.
-
-## ðŸ› ï¸ Como abrir ou executar
-
-1. Clone este repositÃ³rio.
-2. Abra os arquivos \.pbix\ utilizando o Microsoft Power BI Desktop.
-
----
-â­ï¸ Desenvolvido por [Renilson Felix](https://github.com/renilson-fellix)
+Para ver os relatÃ³rios, vocÃª vai precisar do **Power BI Desktop** instalado. Ã‰ sÃ³ baixar os arquivos .pbix e abrir por lÃ¡.
